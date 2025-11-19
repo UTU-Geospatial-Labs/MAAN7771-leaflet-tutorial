@@ -1,6 +1,6 @@
 # Leaflet webmap tutorial for MAAN7771 | 2025
 
-Leaflet JavaScript library is an accessible resource for creating interactive webmaps. This tutorial creates a simple Leaflet webmap that draws layers from different data sources: Maptiler, OSM and our course Geoserver. The demo webmap is accessible live here: [https://voaaal.github.io/Leaflet-WebMap/](https://voaaal.github.io/Leaflet-WebMap/).
+Leaflet JavaScript library is an accessible resource for creating interactive webmaps. This tutorial creates a simple Leaflet webmap that draws layers from different data sources: Maptiler, OSM and our course Geoserver. The demo webmap is accessible live here: [https://utu-geospatial-labs.github.io/MAAN7771-leaflet-tutorial/](https://utu-geospatial-labs.github.io/MAAN7771-leaflet-tutorial/).
 
 This webmap has been created with the support of Leaflet Tutorials:
 - [Leaflet Quick Start Guide](https://leafletjs.com/examples/quick-start/),
